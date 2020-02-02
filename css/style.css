@@ -1,0 +1,14 @@
+body {
+    background-color:#e6e6e6;
+}
+
+.list-group{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+
+}
+
+.llave{
+    background-color: cornflowerblue;
+    color: white;
+}
